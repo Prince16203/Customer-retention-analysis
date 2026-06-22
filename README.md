@@ -1,260 +1,163 @@
-\# 📊 Customer Retention Analysis using SQL \& Power BI
+<div align="center">
 
+# 📊 Customer Retention Analysis
 
+### SQL • Python • MySQL • Power BI • Aiven Cloud
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Aiven](https://img.shields.io/badge/Aiven-FF6C37?style=for-the-badge)
 
+End-to-end customer analytics project focused on understanding customer behavior, promotional dependency and designing retention strategies.
 
+</div>
 
+---
 
-\\
+# 🚀 Project Overview
 
+This project analyzes customer transaction data of a D2C fashion brand to uncover insights about customer loyalty, spending patterns, promotional dependency, and high-value customer segments.
 
+The complete pipeline consists of:
 
-\---
+* Data Cleaning and Feature Engineering
+* Cloud Database Integration (Aiven MySQL)
+* SQL Analysis
+* Business Recommendations
+* Power BI Dashboard
+* Customer Retention Playbook
 
+---
 
+# 🛠 Tech Stack
 
-\## Overview
+| Category       | Tools    |
+| -------------- | -------- |
+| Programming    | Python   |
+| Database       | MySQL    |
+| Cloud Database | Aiven    |
+| Visualization  | Power BI |
+| Analysis       | SQL      |
+| Libraries      | Pandas   |
 
+---
 
+# 🔄 Project Workflow
 
-This project develops a data-driven retention strategy for a D2C fashion brand using Python, MySQL (Aiven Cloud Database), SQL, and Power BI.
-
-
-
-The analysis focuses on understanding customer behavior, promotional dependency, and identifying high-value customers.
-
-
-
-\---
-
-
-
-\## Tech Stack
-
-
-
-\* Python
-
-\* Pandas
-
-\* MySQL
-
-\* Aiven Cloud Database
-
-\* SQL
-
-\* Power BI
-
-
-
-\---
-
-
-
-\## Workflow
-
-
-
-```
-
+```text
 Raw Dataset
-
-&#x20;     ↓
-
-Data Cleaning \& Feature Engineering (Python)
-
-&#x20;     ↓
-
-MySQL Database (Aiven)
-
-&#x20;     ↓
-
+     ↓
+Feature Engineering (Python)
+     ↓
+Aiven Cloud MySQL Database
+     ↓
 SQL Analysis
-
-&#x20;     ↓
-
+     ↓
 Business Insights
-
-&#x20;     ↓
-
+     ↓
 Power BI Dashboard
-
-&#x20;     ↓
-
+     ↓
 Retention Playbook
-
 ```
 
+---
 
+# ❓ Business Questions Solved
 
-\---
+### 🎯 Loyal vs Discount Hunters
 
+Identified customers whose purchasing decisions are driven by loyalty rather than promotions.
 
+### 📈 Behavioral Value Predictors
 
-\## Key Business Questions
+Studied spending patterns, payment preferences, and purchasing frequency.
 
+### 🌎 Geographic Opportunities
 
+Identified regions and demographics with high growth potential.
 
-\### 1. Loyal vs Discount-Driven Customers
+### 💰 Promotional Strategy Optimization
 
+Analyzed promotional dependency and revenue contribution.
 
-
-Segmented customers based on purchase frequency and promotional dependency.
-
-
-
-\### 2. Behavioral Predictors of Customer Value
-
-
-
-Studied spending patterns, payment methods, and purchase frequency.
-
-
-
-\### 3. Geographic Opportunities
-
-
-
-Identified regions and demographics with strong growth potential.
-
-
-
-\### 4. Promotion Strategy Optimization
-
-
-
-Evaluated promotional dependency and its effect on retention.
-
-
-
-\### 5. Ideal Customer Profile
-
-
+### 👑 Ideal Customer Profile
 
 Built a data-driven profile of high-value customers.
 
+---
 
+# 📊 Dashboard Preview
 
-\---
+<p align="center">
+<img src="Customer_dashboard.png" width="900">
+</p>
 
+---
 
+# 📂 Repository Structure
 
-\## Dashboard
-
-
-
-\### Four-Panel Power BI Dashboard
-
-
-
-\* Customer Value Pyramid
-
-\* Promo Dependency vs Retention
-
-\* Geographic Opportunity Map
-
-\* Category Funnel
-
-
-
-\---
-
-
-
-\## Repository Structure
-
-
-
-```
-
+```text
 Customer-retention-analysis
-
 │
-
-├── SQL\_queries/
-
-├── insert\_data/
-
-├── cleaned\_dataset.csv
-
-├── Data\_preparation\_and\_Feature\_engineering.py
-
-├── power\_BI\_Panel.pbix
-
-├── Customer\_dashboard.png
-
-├── Executive\_summary.pdf
-
-├── Retention\_Playbook.md
-
+├── SQL_queries/
+├── insert_data/
+├── cleaned_dataset.csv
+├── Data_preparation_and_Feature_engineering.py
+├── power_BI_Panel.pbix
+├── Customer_dashboard.png
+├── Executive_summary.pdf
+├── Retention_Playbook.md
 └── README.md
-
 ```
 
+---
 
+# ⭐ Project Highlights
 
-\---
+✅ End-to-end analytics pipeline
 
+✅ Cloud database integration using Aiven
 
+✅ SQL solutions for 5 business problems
 
-\## Project Highlights
+✅ Interactive Power BI dashboard
 
+✅ Executive summary for stakeholders
 
+✅ Customer retention playbook
 
-✔ End-to-end analytics pipeline
+---
 
+# 📌 Skills Demonstrated
 
+```text
+SQL
+MySQL
+Python
+Power BI
+Pandas
+Feature Engineering
+Customer Segmentation
+Business Intelligence
+Data Analytics
+```
 
-✔ Connected Python with Aiven MySQL database
+---
 
+# 👨‍💻 Author
 
-
-✔ Solved 5 business questions using SQL
-
-
-
-✔ Built interactive Power BI dashboard
-
-
-
-✔ Developed business recommendations
-
-
-
-✔ Created executive summary and retention playbook
-
-
-
-\---
-
-
-
-\## Skills Demonstrated
-
-
-
-SQL • MySQL • Python • Power BI • Pandas • Customer Segmentation • Data Analytics • Business Intelligence
-
-
-
-\---
-
-
-
-\## Author
-
-
-
-\*\*Prince Kumar\*\*
-
-
+### Prince Kumar
 
 Chemical Engineering, IIT Indore
 
+Interested in:
 
+* Data Analytics
+* Data Science
+* Machine Learning
 
-Interested in Data Analytics, Data Science and Machine Learning
+---
 
-
-
+### ⭐ If you found this project useful, consider giving it a star!
