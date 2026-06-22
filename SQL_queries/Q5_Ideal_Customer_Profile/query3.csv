@@ -1,0 +1,11 @@
+shipping_type,payment_method,frequency_of_purchases,count,avg_spend
+"2-Day Shipping",Cash,Weekly,10,57.30
+"Next Day Air","Credit Card",Weekly,8,64.13
+"Store Pickup","Credit Card",Weekly,7,75.43
+Express,Cash,Weekly,7,76.00
+"Free Shipping",Cash,Bi-Weekly,6,53.50
+"Store Pickup","Bank Transfer",Bi-Weekly,6,71.33
+"Free Shipping","Bank Transfer",Weekly,6,69.67
+Standard,"Credit Card",Weekly,6,57.67
+Express,Paypal,Bi-Weekly,5,49.20
+"Next Day Air",Paypal,Weekly,5,61.40

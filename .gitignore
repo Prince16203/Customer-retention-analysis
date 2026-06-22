@@ -1,0 +1,8 @@
+ca.pem
+connect.py
+credentials.pdf
+
+*.pem
+*.key
+*.env
+__pycache__/

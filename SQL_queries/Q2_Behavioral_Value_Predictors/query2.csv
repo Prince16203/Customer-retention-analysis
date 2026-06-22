@@ -1,0 +1,19 @@
+value_tier,payment_method,count,pct
+High,Paypal,229,17.8
+High,Cash,229,17.8
+High,"Credit Card",219,17.0
+High,"Debit Card",212,16.5
+High,Venmo,210,16.3
+High,"Bank Transfer",189,14.7
+Low,Paypal,236,17.9
+Low,Venmo,226,17.2
+Low,"Credit Card",219,16.6
+Low,"Bank Transfer",215,16.3
+Low,"Debit Card",211,16.0
+Low,Cash,210,15.9
+Mid,"Credit Card",233,18.0
+Mid,Cash,231,17.8
+Mid,"Debit Card",213,16.4
+Mid,Paypal,212,16.4
+Mid,"Bank Transfer",208,16.1
+Mid,Venmo,198,15.3

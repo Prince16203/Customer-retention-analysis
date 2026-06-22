@@ -1,0 +1,4 @@
+value_tier,total_customers,avg_previous_purchases,avg_spend,avg_rating,avg_promo_dependency,pct_subscribed
+High,1288,30.8,62.43,3.74,0.89,29.3
+Mid,1295,29.0,60.40,3.76,0.82,25.3
+Low,1317,16.4,56.54,3.75,0.86,26.4

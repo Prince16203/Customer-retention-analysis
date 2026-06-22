@@ -1,0 +1,17 @@
+category,season,count,avg_spend
+Clothing,Fall,38,65.58
+Clothing,Winter,37,65.43
+Clothing,Spring,34,73.71
+Clothing,Summer,28,53.75
+Accessories,Spring,26,54.92
+Accessories,Fall,21,64.05
+Accessories,Summer,20,65.15
+Footwear,Summer,19,66.26
+Accessories,Winter,17,67.88
+Footwear,Winter,17,61.12
+Footwear,Spring,14,63.50
+Outerwear,Winter,10,65.50
+Outerwear,Fall,9,59.89
+Footwear,Fall,9,57.89
+Outerwear,Spring,7,53.00
+Outerwear,Summer,4,72.25

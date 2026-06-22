@@ -1,0 +1,7 @@
+gender,value_tier,total_customers,avg_spend,avg_promo_dependency
+Female,High,394,62.65,0.00
+Female,Mid,442,60.57,0.00
+Female,Low,412,57.60,0.00
+Male,High,894,62.32,1.29
+Male,Mid,853,60.30,1.25
+Male,Low,905,56.06,1.26

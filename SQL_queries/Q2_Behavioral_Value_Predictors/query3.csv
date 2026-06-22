@@ -1,0 +1,15 @@
+value_tier,frequency_of_purchases,count,avg_spend
+High,Weekly,539,58.97
+High,Fortnightly,351,63.25
+High,Bi-Weekly,349,64.34
+High,Monthly,49,80.84
+Low,Annually,450,58.11
+Low,"Every 3 Months",377,56.30
+Low,Quarterly,329,55.69
+Low,Monthly,161,54.45
+Mid,Monthly,343,58.55
+Mid,Quarterly,234,66.03
+Mid,"Every 3 Months",207,66.97
+Mid,Bi-Weekly,198,54.27
+Mid,Fortnightly,191,51.34
+Mid,Annually,122,67.77

@@ -1,0 +1,16 @@
+location,total_customers,avg_spend,avg_promo_dependency,avg_previous_purchases,total_revenue
+Alaska,72,67.60,0.81,28.1,4867
+Pennsylvania,74,66.57,0.89,27.4,4926
+Arizona,65,66.55,0.68,28.4,4326
+"West Virginia",81,63.88,0.99,23.6,5174
+Nevada,87,63.38,0.94,26.0,5514
+Washington,73,63.33,0.88,24.7,4623
+"North Dakota",83,62.89,0.92,23.8,5220
+Virginia,77,62.88,0.75,23.5,4842
+Utah,71,62.58,0.93,27.2,4443
+Michigan,73,62.10,0.79,26.9,4533
+Tennessee,77,61.97,0.73,26.0,4772
+"New Mexico",81,61.90,0.89,26.0,5014
+"Rhode Island",63,61.44,0.79,23.6,3871
+Texas,77,61.19,0.73,21.5,4712
+Arkansas,79,61.11,0.94,27.1,4828

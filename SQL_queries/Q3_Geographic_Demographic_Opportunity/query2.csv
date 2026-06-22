@@ -1,0 +1,6 @@
+age_group,total_customers,avg_spend,avg_promo_dependency,avg_previous_purchases
+18-25,571,60.65,0.87,24.6
+46-55,753,60.58,0.87,25.4
+26-35,742,59.76,0.87,24.8
+36-45,729,59.31,0.83,25.2
+56+,1105,59.06,0.87,26.2
