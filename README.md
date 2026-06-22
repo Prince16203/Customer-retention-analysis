@@ -149,6 +149,7 @@ Data Analytics
 # 👨‍💻 Author
 
 ### Prince Kumar
+### Mohal Dadhich
 
 Chemical Engineering, IIT Indore
 
